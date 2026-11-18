@@ -1,1 +1,1 @@
-26.11.18 :wrench: 스타일 적용되는지 Test 용 커밋
+26.11.18 :heavy_plus_sign: [Git공부] 충돌시 해결 추가
